@@ -1,0 +1,24 @@
+{
+  "name": "javascript-lab02",
+  "version": "1.0.0",
+  "description": "## Módulo 2: Repaso de fundamentos de Javascript. Conocer la sintáxis fundamental de Javascript en un contexto de propósito general. ## Unidad 2: Precedencia, condicionales y loops",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --silent --watch",
+    "test:ci": "jest --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booleancl/javascript-lab02.git"
+  },
+  "keywords": [],
+  "author": "Academia Boolean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/booleancl/javascript-lab02/issues"
+  },
+  "homepage": "https://github.com/booleancl/javascript-lab02#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
